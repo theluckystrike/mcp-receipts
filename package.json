@@ -1,5 +1,6 @@
 {
   "name": "mcp-receipts",
+  "repository": {"type": "git", "url": "theluckystrike/mcp-receipts.git"},
   "version": "1.0.0",
   "description": "MCP server: receipts",
   "type": "module",
